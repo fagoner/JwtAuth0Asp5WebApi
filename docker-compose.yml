@@ -5,4 +5,4 @@ services:
     image: jwtauth0:dev
     restart: always
     ports:
-      - 8083:80
+      - 8083:3010
